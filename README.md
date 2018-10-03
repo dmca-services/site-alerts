@@ -1,8 +1,8 @@
-# DMCA.com [![DMCA API](https://images.dmca.com/Badges/dmca-badge-w200-5x1-04.png)](https://www.dmca.com)
+# DMCA.com Site Alert Protocol [![DMCA API](https://images.dmca.com/Badges/dmca-badge-w200-5x1-04.png)](https://www.dmca.com)
 
 DMCA.com Site alerts are the email notifications that get sent out when a new badge is detected on a new domain. You would get one by having a DMCA.com badge on your page(s).
 
-## DMCA.com Site Alert Protocol
+## How it works
 - The first time a new domain is detected with a badge on it the owner of that badge ID is alerted.
   The owner can choose to mute the alert or do nothing and receive further alerts.
 - The second time will be sent to the badge owner unless it's muted
