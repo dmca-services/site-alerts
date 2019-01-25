@@ -8,6 +8,7 @@ DMCA.com Site alerts are the email notifications that get sent out when a new ba
 - The first time a new domain is detected with a badge on it the owner of that badge ID is alerted.
    * The owner can choose to mute the alert or do nothing and receive further alerts.
    * DMCA.com will confirm the badge is actually present at that URL before sending the alert. (Default setting)
+   * You can login to the dashboard and enable / disable the setting at any time
 - The second time will be sent to the badge owner unless it's muted
 - Same with the 3rd
 - Same with the 4th
