@@ -2,6 +2,8 @@
 
 DMCA.com Site alerts are the email notifications that get sent out when a new badge is detected on a new domain. You would get one by having a DMCA.com protection badge on your page(s).
 
+- To manage your site alert settings, login to your dashboard at: [DMCA Sites Dashboard](https://www.dmca.com/dashboard?sites)
+
 ## How it works
 - The first time a new domain is detected with a badge on it the owner of that badge ID is alerted.
    * The owner can choose to mute the alert or do nothing and receive further alerts.
@@ -17,3 +19,7 @@ DMCA.com Site alerts are the email notifications that get sent out when a new ba
 * We are working a better ways manage the difference in sensitivity between alerts
 * We are working better ways to prevent abuse on this feature.
 * We are working on a higher sensitivity for the alerts.
+
+
+### Coming Soon
+* SMS alerts
